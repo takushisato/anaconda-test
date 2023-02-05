@@ -1,5 +1,7 @@
 # PythonでExcelを弄るチュートリアル環境
 
+書籍『Pythonでかなえる Excel作業効率化』を参考にしています。
+
 pycharmとanacondaを使用
 <br>
 
